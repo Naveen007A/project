@@ -1,0 +1,57 @@
+﻿@model scopeindia.Models.Contact;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/Contact.css" asp-append-version="true" />
+
+</head>
+<body>
+    <div class="navi" >
+
+        <div  class="card-header text-white text-uppercase">
+            <h4 class="text-center">student information</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Contact" method="post">
+                <div class="row">
+                    <div class="form-group">
+                        <label asp-for="Name" class="label-control"></label>
+                        <input asp-for="Name" class="form-control" name="Name" />
+                           <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group">
+                        <label asp-for="Email" class="label-control" ></label>
+                        <input asp-for="Email" class="form-control" name="Email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group">
+                        <label asp-for="Subject" class="label-control"></label>
+                        <input asp-for="Subject" class="form-control"  name="Subject"/>
+                        <span asp-validation-for="Subject" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group">
+                        <label asp-for="Message" class="label-control"></label>
+                        <input asp-for="Message" class="form-control"  name="Message"/>
+                        <span asp-validation-for="Message" class="text-danger"></span>
+                    </div>
+                </div><br />
+                <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary rounded-0">Send Email</button>&nbsp;
+                    
+                </div>
+            </form>
+        </div>
+        </div>
+        @section Scripts{
+            @await Html.PartialAsync("/Views/shared/_ValidationScriptsPartial.cshtml")
+        }
+</body>
+</html>

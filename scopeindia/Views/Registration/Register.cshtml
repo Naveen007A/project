@@ -1,0 +1,146 @@
+﻿@model scopeindia.Models.Registration
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+</head>
+<body>
+@{
+    ViewData["Title"] = "Registration";
+}
+<div id="navi">
+<div class="row">
+    <div class="card-header text-white text-uppercase text-center">
+        <h1>Registration Form</h1><br />
+    </div>
+    <div class="card-body">
+        <form asp-action="Register" enctype="multipart/form-data">
+            <div class="row">  
+                    <div class="form-group col-md-6" >
+                        <label asp-for="FirstName" class="label-comtrol"></label>
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="LastName" class="label-comtrol"></label>
+                            <input asp-for="LastName" class="form-control" />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+
+            </div>
+
+            <br />
+
+            <div class="row">
+                    <div class="form-group col-md-6">
+                        <label asp-for="Gender" class="label-control"></label>
+                        <input type="radio" asp-for="Gender" value="Male" class="label-control" />Male
+                        <input type="radio" asp-for="Gender" value="Female" class="label-control" />Female
+                        <span asp-validation-for="Gender" class="text-danger"></span>
+                    </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="Email" class="label-control"></label>
+                            <input asp-for="Email" type="email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        
+            </div><br />
+
+            <div class="row">
+                    <div class="form-group col-md-6">
+                        <label asp-for="Date" class="label-control"></label>
+                        <input asp-for="Date" type="date" class="form-control" />
+                        <span asp-validation-for="Date" class="text-danger"></span>
+                    </div>
+
+                        <div class="form-group col-md-6">
+                            <label asp-for="Phone" class="label-control"></label>
+                            <input asp-for="Phone" type="tel" class="form-control" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                        
+            </div><br />
+
+         
+
+
+            <div class="row">
+                    <div class="form-group">
+                        <label asp-for="Country" class="label-control">Country:</label>
+                        <select id="Country" asp-for="Country" name="country" class="form-select" onchange="updateStates()" required>
+                            <option value=""disabled selected>Select Country</option>
+                            <option value="India">India</option>
+                            <option value="USA">USA</option>
+                        </select>
+                        <span asp-validation-for="Country"></span>
+                    </div>
+            </div><br />
+
+            <div class="row">
+                    <div class="form-group">
+                        <label asp-for="State" class="label-control">State:</label>
+                        <select id="State" asp-for="State" name="state" class="form-select" onchange="updateCities()" required>
+                            <Selectoption value="" disabled selected>Select Stateoption>                            
+                        </select>
+                        <span asp-validation-for="State"></span>
+                    </div>
+            </div><br />
+
+            <div class="row">
+                    <div class="form-group">
+                        <label asp-for="City" class="label-group">City:</label>
+                        <select id="City" asp-for="City" class="form-select" required>
+                        <option value="" disabled selected> Select City</option>
+                        </select>
+                        <span asp-validation-for="City"></span>
+                    </div>
+            </div><br />
+
+                <div class="row">
+                        <div class="form-group">
+                            <label asp-for="City" class="label-group">Hobbies</label>
+                        </div>
+                </div>
+
+
+
+            @{
+                string[] hobbies = { "Reading", "Dancing", "Swimming" };
+            }
+            @foreach (var hobby in hobbies)
+            {
+                <label>
+                    <input type="checkbox" name="Hobbies" value="@hobby" />@hobby
+                </label>
+                <br />
+            }
+              
+
+<div class="row">
+        <div class="form-group">
+            <label asp-for="myfile" class="label-control">Upload Image</label>
+            <input type="file" name="myfile" asp-for="myfile" class="form-control" />
+        </div>
+</div><br />
+
+
+                <div class="row">
+                    <div class="form-group">
+                        <input type="submit" class="btn btn-primary" value="Submit" />
+                    </div>
+                </div>
+        </form>
+    </div>
+</div>
+    </div>
+<script src="~/js/Dynamic.js"></script>
+                @section Scripts{
+                    @await Html.PartialAsync("/Views/shared/_ValidationScriptsPartial.cshtml")
+                }
+
+</body>
+</html>
+
+

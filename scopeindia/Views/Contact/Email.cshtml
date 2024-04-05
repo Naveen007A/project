@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+</head>
+<body>
+    @if  (ViewBag.Success !=null)
+    {
+        <div>
+            <h1 class="text-white"> students Information</h1>
+            <p>Name : @ViewBag.Name</p>
+            <p>Email Id:@ViewBag.Email</p>
+            <p>Subject:@ViewBag.Subject</p>
+            <p>Message:@ViewBag.Message</p>
+            <h4 class="text-success">@ViewBag.Success</h4>
+
+        </div>
+    }
+    else
+    {
+        <h4 class="text-danger">@ViewBag.failed</h4>
+    }
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿@model List<scopeindia.Models.Reg1>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+    <h1 class="text-center">Welcome to Students Profile </h1><br />
+    <h5 class="text-center">Here you can edit already exists students details</h5><br /><br />
+     <table class="table text-white">
+         <thead>
+             <tr>
+                 <th>First_name</th>
+                 <th>Last_name</th>
+                 <th>Gender</th>
+                 <th>DOB</th>
+                 <th>Email</th>
+                 <th>Phone</th>
+                 <th>Country</th>
+                 <th>State</th>
+                 <th>City</th>
+                 <th>Hobbies</th>
+                 <th>Image</th>
+                 </tr>               
+         </thead>
+         <tbody>
+             @foreach(var mnk in Model)
+            {
+                <tr>
+                    <td>@mnk.First_name</td>
+                    <td>@mnk.Last_name</td>
+                    <td>@mnk.Gender</td>
+                    <td>@mnk.DOB</td>
+                    <td>@mnk.Email</td>
+                    <td>@mnk.Phone</td>
+                    <td>@mnk.Country</td>
+                    <td>@mnk.State</td>
+                    <td>@mnk.City</td>
+                    <td>@mnk.Hobbies</td>
+                    <td><img style="max-width:100px" src="@Url.Content(mnk.Image)" alt="Alternate Text" /></td>
+                    <td><a href="Updateprofile/@mnk.Id">EDIT</a></td>
+                </tr>
+            }
+        </tbody>
+     </table>
+</body>
+</html>

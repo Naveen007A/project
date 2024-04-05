@@ -1,0 +1,41 @@
+﻿@model scopeindia.Models.Firsttimelogin
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/LogIn.css" asp-append-version="true" />
+
+</head>
+<body>
+
+    
+        <div class="">
+            <div class="card-header text-white text-uppercase text-center">
+                <h3>First Time Login</h3><br />
+            </div>
+            <div class="card-body">
+                <form asp-action="Firsttimelogin" method="post">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="Email" class="label-control"></label>
+                                <input type="email" asp-for="Email" class="form-control" placeholder="enter email address" />
+                                <span asp-validation-for="Email"></span>
+                            </div>
+                        </div>
+                    </div><br />
+                    
+                <div class="row" >
+                         <div class="col-sm-2">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    </div>
+                </div>
+                    </form>
+                    </div>
+                    </div><br />
+        @section Scripts {
+            @await Html.PartialAsync("/Views/Shared/_ValidationScriptsPartial.cshtml")
+        }
+    </body>
+    </html>

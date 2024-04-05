@@ -1,0 +1,73 @@
+﻿@model scopeindia.Models.Login
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/LogIn.css" asp-append-version="true" />
+
+</head>
+<body>
+    
+        <div class="">
+            <div class="card-header text-white text-uppercase text-center">
+                <h3>Student Login</h3><br />
+            </div>
+            <div class="card-body">
+                <form asp-action="In" method="post">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="Email" class="label-control"></label>
+                                <input type="email" asp-for="Email" class="form-control" placeholder="enter email address" />
+                                <span asp-validation-for="Email"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="Password" class="label-control"></label>
+                                <input type="password" asp-for="Password" class="form-control" placeholder="enter Password" />
+                            </div>
+                        </div>
+                    </div><br />
+
+                    <div class="row">
+                        <div class="form-check">
+                            <label asp-for="CheckBox" class="label-control">keep logged in</label>&nbsp;
+                            <input type="checkbox" asp-for="CheckBox" for="Loggedin" />
+
+                        </div>
+                    </div><br />
+
+                    <div class="row">
+                        <div class="col-sm-2">
+                        <button type="submit" class="btn btn-primary">Log In</button>
+                    </div>
+                    </div><br />
+
+                    <div class="row" col-md-6>
+                        <div class="form-group">
+                        <a asp-action="Firsttimelogin">First TimeLogin</a>
+                    </div>
+                    </div>
+
+                    <div class="row" col-md-6>
+                        <div class="form-group">
+                            <a asp-action="ForgotPassword">Forgot Password</a>
+                        </div>
+                    </div>
+
+                </form>
+                
+            </div>
+
+            </div>
+            @section Scripts{
+                @await Html.PartialAsync("/Views/Shared/_ValidationScriptsPartial.cshtml")
+            }
+            </body>
+            </html>
+

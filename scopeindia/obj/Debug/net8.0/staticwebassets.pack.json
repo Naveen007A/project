@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\scopeindia.bundle.scp.css",
+      "PackagePath": "staticwebassets\\scopeindia.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\css\\Contact.css",
+      "PackagePath": "staticwebassets\\css\\Contact.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\css\\LogIn.css",
+      "PackagePath": "staticwebassets\\css\\LogIn.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\images\\IMG-20231009-WA0048.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG-20231009-WA0048.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\images\\IMG-20231009-WA0053.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG-20231009-WA0053.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\images\\WhatsApp Image 2024-02-29 at 12.43.21_28364e17.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2024-02-29 at 12.43.21_28364e17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\images\\WhatsApp Image 2024-02-29 at 12.43.26_3c6cce63.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2024-02-29 at 12.43.26_3c6cce63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\images\\pexels-photo-1287145.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-1287145.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\images\\pngtree-2019-new-years-day-stage-background-design-backgroundnew-years-.jpg",
+      "PackagePath": "staticwebassets\\images\\pngtree-2019-new-years-day-stage-background-design-backgroundnew-years-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\images\\scope-india-logo-bird.png",
+      "PackagePath": "staticwebassets\\images\\scope-india-logo-bird.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1002492606asd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1002492606asd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1064415175OIP (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\1064415175OIP (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1120671388asd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1120671388asd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1157343468WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1157343468WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1167229562WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1167229562WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1476054554flower.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1476054554flower.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\162986515OIP (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\162986515OIP (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1816986640asd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1816986640asd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\1948911544asd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1948911544asd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\338989266WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg",
+      "PackagePath": "staticwebassets\\uploads\\338989266WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\529922750flower.jpg",
+      "PackagePath": "staticwebassets\\uploads\\529922750flower.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\988971670WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg",
+      "PackagePath": "staticwebassets\\uploads\\988971670WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\OIP (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\OIP (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\WhatsApp Image 2023-10-06 at 10.59.55_b857280f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Image 2023-10-06 at 10.59.55_b857280f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Image 2024-02-05 at 10.33.34_8fdaba36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\asd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\asd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\c#\\DOT NET\\scopeindia\\scopeindia\\wwwroot\\uploads\\flower.jpg",
+      "PackagePath": "staticwebassets\\uploads\\flower.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.scopeindia.props",
+      "PackagePath": "build\\scopeindia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.scopeindia.props",
+      "PackagePath": "buildMultiTargeting\\scopeindia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.scopeindia.props",
+      "PackagePath": "buildTransitive\\scopeindia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.scopeindia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
